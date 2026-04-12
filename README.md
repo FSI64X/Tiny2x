@@ -1,6 +1,5 @@
-# Tiny2x
-Image Upscaling solution for low end pcs!
-
-Now anyone with a PC having at least 4 GBs of RAM and a decent enough 4 core processor (2 Cores will work but its not recommended.) will be able to to upscale their images FREE of cost and without any limitations. 
-Tiny2x, A lightweight image upscaling software that allows low end device users to be able to upscale images on their end. ZERO Log-in or Sign-up needed, just download and use it! 
-
+#Tiny2x — Image Upscaling for Everyone
+Not everyone has a powerful PC — and that shouldn't stop you from upscaling your images.
+Tiny2x is a lightweight, free image upscaler built specifically for low-end computers. No GPU required, no sign-up, no limitations. Just download and start upscaling.
+Minimum specs: 4GB RAM · 4-core CPU
+Price: Free. Forever.
