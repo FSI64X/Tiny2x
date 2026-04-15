@@ -1,4 +1,4 @@
-# H1 Tiny2x | Image Upscaling for Everyone
+# Tiny2x | Image Upscaling for Everyone
 
 Not everyone has a powerful PC, and that shouldn't stop you from upscaling your images.
 Tiny2x is a lightweight, free image upscaler built specifically for low-end computers. No GPU required, no sign-up, no limitations. Just download and start upscaling.
@@ -6,7 +6,7 @@ Minimum specs: 4GB RAM · 4-core CPU
 Recommended specs: 8GB RAM · 4–6 core CPU
 Price: Free. Forever.
 
-## H2 MANUAL:
+## MANUAL:
 
 • Download the .ZIP file of the Tiny2x software from the "releases" tab.
 • Extract the `Tiny2x.zip` file.
@@ -20,7 +20,7 @@ And that's how you can upscale your image with Tiny2x! Fast & Easy!
 
 -----------------------------------
 
-### H3 Features and their description:
+### Features and their description:
 - Main feature of Tiny2x is that it runs on low end devices meaning that if you have a 4-core cpu and 8GB RAM, you'll run it completely fine.
 
 - Tiny2x works completely on the device where it is installed meaning that it doesn't share your data anywhere.
@@ -29,7 +29,7 @@ And that's how you can upscale your image with Tiny2x! Fast & Easy!
 
 -----------------------------------
 
-### H3 Tile Size and Tile Overlap/Padding:
+### Tile Size and Tile Overlap/Padding:
 
 **• Tile Size**: Tiling splits your image into smaller chunks so your CPU can process each tile one by one without straining itself. Tile Size is the pixel dimension of that tile meaning that smaller tile size (e.g. 64px) will use less RAM whereas bigger tile size (e.g. 256, 512px) will use more RAM. If you device is not that capable then use smaller tile size.
 
